@@ -22,7 +22,7 @@ export default function Hero() {
                     <img src={hi} data-aos='fade-up' data-aos-delay='400'
                      className='absolute top-[350px] left-44 md:top-[-30px] md:left-[450px] transform
                     -translate-x-1/2 -translate-y-1/2 w-20 h-20'/>
-                <h1 className='title-font sm:text-4xl text-4xl mb-4 font-bold text-white'>Hi! I'm ADELINE</h1>
+                <h1 className='title-font sm:text-4xl text-4xl mb-4 font-bold text-white'>Hi! I'm Mohamd Oued</h1>
                 <p className='mb-8 leading-relaxed'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut error quasi est labore? Laborum hic commodi architecto ex eligendi quasi. Accusantium provident ipsa illum facilis praesentium fuga aliquid, eveniet molestiae.    
                 </p>
                 <div className='flex justify-center'>
