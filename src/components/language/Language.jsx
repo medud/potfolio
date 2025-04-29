@@ -4,8 +4,8 @@ export default function Language() {
     const languages = [
         {code:'En', name:'English', level:'Maternal'},
         {code:'Ar', name:'Arabic', level:'Common'},
-        {code:'Sp', name:'Spanish', level:'Average'},
         {code:'Fr', name:'French', level:'Good'},
+      
     ];
   return (
     <section data-aos='fade-up' data-aos-delay='400' className='flex flex-wrap md:flex-nowrap items-center justify-center gap-10 md:gap-20 h-[300px] text-blue-950 mt-11 '>

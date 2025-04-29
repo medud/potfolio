@@ -16,10 +16,13 @@ export default function Experience() {
             </div>
         <div data-aos='fade-left' data-aos-delay='400' className='lg:flex-grow md:w-1/2 lg:pl-8 md:pl-8 flex flex-col md:items-start md:text-left items-center text-center '>
             <h1 className='title-font sm:text-4xl text-3xl mb-4 font-medium text-orange-500 '>Experience</h1>
-            <h2 className='title-font font-bold text-white sm:text-2xl '>2023 :</h2>
-            <p className='mb-8 text-white leading-relaxed '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis voluptate soluta, inventore veritatis quo odio repellat ad atque veniam aspernatur consectetur ipsum quis repellendus necessitatibus, ipsam nulla dolor id laudantium!</p>
-            <h2 className='title-font font-bold text-white sm:text-2xl '>2024 :</h2>
-            <p className='mb-8 text-white leading-relaxed '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis voluptate soluta, inventore veritatis quo odio repellat ad atque veniam aspernatur consectetur ipsum quis repellendus necessitatibus, ipsam nulla dolor id laudantium!</p>
+            <h2 className='title-font font-bold text-white sm:text-2xl '>2017 :</h2>
+            <p className='mb-8 text-white leading-relaxed '>IPSOS
+            JUILLET 2017- SEPTEMBRE 2017 Enquêteur : sondage et marketing d’opinion</p>
+            <h2 className='title-font font-bold text-white sm:text-2xl '>2018 :</h2>
+            <p className='mb-8 text-white leading-relaxed '>L’Office Chérifien du Phosphate
+            Stage :JUIN 2018 - JUILLET 2018 Analyse de soufre et Production d’acide sulfurique</p>
+            
         </div>
         </div>
     </section>
